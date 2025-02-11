@@ -7,3 +7,4 @@ Warum auch nicht? Es gibt hier
   - [ein Forum](https://github.com/khannover/blog/discussions/)
   - [Kommentare](https://github.com/khannover/blog/issues)
   - [ein Changelog](https://github.com/khannover/blog/activity)
+  - [eine Suchfunktion](https://github.com/search?q=repo%3Akhannover%2Fblog&type=code)
