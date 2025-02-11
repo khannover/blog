@@ -6,3 +6,4 @@ Warum auch nicht? Es gibt hier
   - [meine Posts](/date)
   - [ein Forum](https://github.com/khannover/blog/discussions/)
   - [Kommentare](https://github.com/khannover/blog/issues)
+  - [ein Changelog](https://github.com/khannover/blog/activity)
