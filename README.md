@@ -8,3 +8,4 @@ Warum auch nicht? Es gibt hier
   - [Kommentare](https://github.com/khannover/blog/issues)
   - [ein Changelog](https://github.com/khannover/blog/activity)
   - [eine Suchfunktion](https://github.com/search?q=repo%3Akhannover%2Fblog&type=code)
+  - [einen Atom-Feed](https://github.com/khannover/blog/commits/main.atom)
