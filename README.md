@@ -1,9 +1,9 @@
 [![GitHub repo file or directory count (in path)](https://img.shields.io/github/directory-file-count/khannover/blog/date?label=Posts)](/date)
 [![GitHub Discussions](https://img.shields.io/github/discussions/khannover/blog?label=Forum)](https://github.com/khannover/blog/discussions/)
-[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/khannover/blog?label=Kommentare)](https://github.com/khannover/blog/issues)
+[![GitHub Issues or Pull Requests](https://img.shields.io/github/issues/khannover/blog?label=Kommentare&color=0577b8)](https://github.com/khannover/blog/issues)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/t/khannover/blog?label=Changes)](https://github.com/khannover/blog/activity)
-[Suche](https://github.com/search?q=repo%3Akhannover%2Fblog&type=code)
-[Feed](https://github.com/khannover/blog/commits/main.atom)
+[![](https://img.shields.io/badge/Suche-0577b8)](https://github.com/search?q=repo%3Akhannover%2Fblog&type=code)
+[![](https://img.shields.io/badge/RSS-b85505)](https://github.com/khannover/blog/commits/main.atom)
 
 
 
