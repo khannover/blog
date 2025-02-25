@@ -19,7 +19,7 @@ Warum auch nicht?
 Social
 
 ![GitHub followers](https://img.shields.io/github/followers/khannover)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/khannover)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/khannover)](https://www.reddit.com/user/khannover/)
 [![Twitch Status](https://img.shields.io/twitch/status/khannover)](https://twitch.com/khannover)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/khannover)](https://X.com/khannover)
 [![HackerNews User Karma](https://img.shields.io/hackernews/user-karma/khannover?style=flat)](https://news.ycombinator.com/user?id=khannover)
