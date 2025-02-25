@@ -14,6 +14,9 @@ Dieses Repository ist mein Blog. Es ist nicht die Software für meinen Blog, nic
 
 Warum auch nicht? 
 
+Hier gehts zu meinen [![Posts](https://img.shields.io/github/directory-file-count/khannover/blog/date?label=Posts)](/date)
+
+
 ----
 
 Social
