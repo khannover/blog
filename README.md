@@ -21,7 +21,7 @@ Hier gehts zu meinen [![Posts](https://img.shields.io/github/directory-file-coun
 
 Social
 
-![GitHub followers](https://img.shields.io/github/followers/khannover)
+[![](https://img.shields.io/github/followers/khannover)](https://github.com/khannover?tab=followers)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/khannover)](https://www.reddit.com/user/khannover/)
 [![Twitch Status](https://img.shields.io/twitch/status/khannover)](https://twitch.com/khannover)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/khannover)](https://X.com/khannover)
@@ -31,6 +31,7 @@ Social
 
 Projekte
 
+[![Static Badge](https://img.shields.io/badge/Github-Profile-blue)](https://github.com/khannover?tab=repositories)
 ![Docker Stars Niceblog](https://img.shields.io/docker/stars/khannover/niceblog?label=Docker%20⭐%20niceblog)
 ![Docker Stars docker-markdeep-slides](https://img.shields.io/docker/stars/khannover/docker-markdeep-slides?label=Docker%20⭐%20docker-markdeep-slides)
 
