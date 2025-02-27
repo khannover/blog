@@ -35,6 +35,3 @@ Projekte
 ![Docker Stars Niceblog](https://img.shields.io/docker/stars/khannover/niceblog?label=Docker%20⭐%20niceblog)
 ![Docker Stars docker-markdeep-slides](https://img.shields.io/docker/stars/khannover/docker-markdeep-slides?label=Docker%20⭐%20docker-markdeep-slides)
 
-
-
-<iframe src="https://github.com/khannover/blog/blob/main/date%2F2025-02-25.2.baqrup.md"></iframe>
